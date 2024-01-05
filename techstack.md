@@ -34,7 +34,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [piranna/abstract-leveldown](https://github.com/piranna/abstract-leveldown)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|12<br/>Tools used|12/27/23 <br/>Report generated|
+|13<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -131,15 +131,16 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (3)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (4)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (3)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (4)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
 |[dependency-check](https://www.npmjs.com/dependency-check)|v3.3.0|01/07/19|Vincent Weevers |BSD-3-Clause|N/A|
 |[nyc](https://www.npmjs.com/nyc)|v14.0.0|03/15/13|Rod Vagg |ISC|N/A|
 |[standard](https://www.npmjs.com/standard)|v13.0.1|07/12/19|greenkeeper[bot] |MIT|N/A|
+|[tape](https://www.npmjs.com/tape)|v4.10.0|02/10/19|Vincent Weevers |MIT|N/A|
 
 <br/>
 <div align='center'>
